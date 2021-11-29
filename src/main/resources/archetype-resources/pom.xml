@@ -122,12 +122,12 @@
 
     <distributionManagement>
         <snapshotRepository>
-            <id>snapshots</id>
+            <id>rdc-snapshots</id>
             <name>Nexus Snapshot Repository</name>
             <url>http://packages.aliyun.com/maven/repository/2040587-snapshot-5iDsAk/</url>
         </snapshotRepository>
         <repository>
-            <id>releases</id>
+            <id>rdc-releases</id>
             <name>User Project Release</name>
             <url>http://packages.aliyun.com/maven/repository/2040587-release-ToxyGz/</url>
         </repository>
